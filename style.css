@@ -1,0 +1,150 @@
+#alap{
+    
+    position: absolute;
+    background-color: rgba(214, 214, 218, 0.87);
+    top: 50px;
+    left: 200px;
+    width: 500px;
+    height: 200px;
+    font-size: large;
+    font-weight: ;
+    min-width: 500px;
+    min-height: 400px;
+}
+form{
+  
+}
+body{
+    margin: 0;
+}
+.kozep{
+    top: 50px;
+    left: 200px;
+    width: 600px;
+    height: 200px;
+}  
+#email, #number , #tname{
+    position: absolute;
+    left: 170px;
+}
+#gender{
+    left: 200px;
+    position: absolute;
+}
+#levelezes{
+    
+}
+#telefonszam{
+    position: fixed;
+    left: 370px;
+    height: 30px;
+}
+#number{
+left: 218px;
+width: 150px;
+height: 24px;
+}
+#email{
+    width: 200px;
+    height: 24px;
+    border: 2px solid none  ;
+    text-emphasis: 10;
+    
+}
+#email:hover{
+    text-emphasis-style: filled;
+    text-emphasis: none;
+    border: 1px solid red;
+}
+#nyelv{
+    width: 206px;
+    height: 40px;
+    font-size: medium;
+}
+#mentes{
+    width: 80px;
+    height: 40px;
+    color: white;
+    background-color: rgb(247, 113, 4);
+}
+#tname{
+    width: 199px;
+    height: 24px;
+}
+#év{
+    position: absolute;
+    left: 170px;
+    height: 30px;
+    width: 60px;
+    font-size: medium;
+}
+#hó{
+    position: absolute;
+    left: 238px;
+    height: 30px;
+    width: 60px;
+    font-size: medium;
+}
+#nap{
+   position: absolute; 
+   left: 307px;
+   height: 30px;
+   width: 60px;
+   font-size: medium;
+}
+#ferfi{
+    position: absolute;
+    left: 170px;
+    color: orange;
+    height: 15px;
+    background-color: red;
+    
+}
+#No{
+    position: absolute;
+    left: 235px;
+    height: 15px;
+}
+#férfi{
+    position: absolute;
+    left: 190px;
+}
+#nő{
+    position: absolute;
+left:255px;
+}
+p{
+    float: right;
+    position: relative;
+    width: 200px;
+    left: -125px;
+    font-size: small;
+    border: 2px dotted gray;
+    border-left: none;
+    border-right: none;
+    height: 60px;
+    text-align: right;
+}
+img{
+    position: relative;
+    width: 45px;
+    height: 45px;
+    left: 170px;
+    top: 30px;
+    
+}
+legend{
+    position: relative;
+    left: 200px;
+    top: 18px;
+    font-size:x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+label, span, p{
+color: rgb(105, 105, 105);
+
+}
+b{
+    color: red;
+}
